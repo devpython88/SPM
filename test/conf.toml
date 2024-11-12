@@ -1,0 +1,6 @@
+[details]
+project_name = "MyProj"
+
+[files]
+output_exe = "main"
+source_files = "test/main.cpp"

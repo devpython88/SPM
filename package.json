@@ -1,0 +1,34 @@
+{
+  "name": "spm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tsc --build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Zlib",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.9.0",
+    "@types/yargs": "^17.0.33",
+    "pkg": "^5.8.1",
+    "typescript": "^5.6.3",
+    "yargs": "^17.7.2"
+  },
+  "dependencies": {
+    "toml": "^3.0.0"
+  },
+  "pkg": {
+  	"targets": [
+  		"node16-linux-x64",
+  		"node16-win-x64",
+  		"node16-macos-x64"
+  	],
+  	"assets": ["assets/SPM_Logo.png"],
+  	"output": ["dist/spm"]
+  },
+  "bin": {
+  	"spm": "index.js"
+  }
+}
