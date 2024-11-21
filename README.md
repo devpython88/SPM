@@ -7,4 +7,4 @@ Supported:
 
 <br>
 
-## Tutorial [Here](/tutorial/TUTORIAL.md)
+## Tutorial [Here](/tutorial/tutorial.md)
