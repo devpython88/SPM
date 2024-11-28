@@ -1,4 +1,4 @@
-## THE SOURCE FILES HERE ARE OLD, PLEASE USE [THIS WEBSITE INSTEAD](https://devpython88.github.com/)
+## THE SOURCE FILES HERE ARE OLD, PLEASE USE [THIS WEBSITE INSTEAD](https://devpython88.github.com/spm)
 
 ## SPM
 Simple Project Manager <br>
